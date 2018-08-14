@@ -1,6 +1,4 @@
-INDEX VERSION 1.131+/Users/josh/Documents/KMS/WS/.metadata/.plugins/org.eclipse.jdt.core
-1828089775.index
-201325967.index
-3094369298.index
+INDEX VERSION 1.131+/Users/josh/Documents/KMS/sel/WS/.metadata/.plugins/org.eclipse.jdt.core
 2089348824.index
-2895540742.index
+1756614505.index
+1982648149.index
