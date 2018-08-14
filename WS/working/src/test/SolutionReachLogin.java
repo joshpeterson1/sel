@@ -17,10 +17,10 @@ public class SolutionReachLogin {
 		System.out.println("You're running this on " + os);
 		if (os.contains("mac")) {
 			//Gecko (Mac)
-			System.setProperty("webdriver.gecko.driver", "/Users/josh/Documents/KMS/Selenium/geckodriver");
+			System.setProperty("webdriver.gecko.driver", "/Users/josh/Documents/KMS/sel/Selenium/geckodriver");
 		} else {
 			//Gecko (Windows)
-			System.setProperty("webdriver.gecko.driver", "C:\\\\Users\\xlive\\Documents\\1KMS\\Selenium\\geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", "C:\\\\Users\\xlive\\Documents\\1KMS\\sel\\Selenium\\geckodriver.exe");
 		}
 		DesiredCapabilities capabilities = DesiredCapabilities.firefox();
 		capabilities.setCapability("marionette", true);
