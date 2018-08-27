@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\xlive\Documents\1KMS\sel\WS\working"/>
 		<item value="/Users/josh/Documents/KMS/sel/WS/test.zip_expanded"/>
 		<item value="/Users/josh/Documents/KMS/WS/test.zip"/>
 	</list>
